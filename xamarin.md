@@ -1,6 +1,5 @@
 # xamarin
 
-![Linguagem Xamarin](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Ff2%2FXamarin-logo.svg%2F1200px-Xamarin-logo.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FXamarin&tbnid=zTNiCHUFG6rAlM&vet=12ahUKEwj0iJHx1MH4AhVYN7kGHRLRDUkQMygCegUIARDBAQ..i&docid=XyG9CTJ3D_beqM&w=1200&h=503&q=xamarin&ved=2ahUKEwj0iJHx1MH4AhVYN7kGHRLRDUkQMygCegUIARDBAQ)
 
 Plataforma da  Microsoft para criação de aplicações.
 
